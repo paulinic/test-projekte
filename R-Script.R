@@ -10,5 +10,3 @@ csv_data <- read.csv("~/Documents/Uni_Luzern_LUMACSS/HS24/Introduction to R /my-
 str(csv_data)
 
 #text
-
-#dies ist ein Commit Testing
