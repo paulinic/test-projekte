@@ -1,0 +1,13 @@
+---
+title: "My Awesome R Project"
+format: pdf
+editor: visual
+author: Nicole Pauli 
+---
+
+```{r}
+#import and loat packages and libraries, set seed for reproducability
+
+library(tidyverse)
+
+```
